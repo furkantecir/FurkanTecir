@@ -1,3 +1,4 @@
+![logo](https://github.com/furkantecir/FurkanTecir/blob/main/Yellow%20Modern%20Style%20Game%20Twitch%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Hello</h3>
 
