@@ -1,4 +1,5 @@
 ![logo](https://github.com/furkantecir/FurkanTecir/blob/main/Yellow%20Modern%20Style%20Game%20Twitch%20Banner.gif)
+
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Hello</h3>
 
@@ -28,6 +29,8 @@
    
   </a>
 </div>
- ![logo](https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_2.png)
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_1.png" height="300"/>
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_2.png" height="300" />
+ 
 
 ###
