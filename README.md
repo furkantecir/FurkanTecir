@@ -29,8 +29,8 @@
    
   </a>
 </div>
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_1.png" height="300"/>
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_2.png" height="300" />
- 
+
+ <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_1.png" alt="photoshop" width="500" height="350"/> </a> 
+ <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_2.png" alt="photoshop" width="500" height="350"/> </a> 
 
 ###
