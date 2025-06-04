@@ -25,30 +25,30 @@
   
 </div>
 
- <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_1.png" alt="photoshop" width="350" height="350"/> </a> 
- <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_2.png" alt="photoshop" width="350" height="350"/> </a>
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_10.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_11.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_12.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_13.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_14.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_15.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_16.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_17.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_18.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_19.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_20.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_21.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_22.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_23.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_24.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_3.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_4.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_5.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_6.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_7.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_8.png" alt="photoshop" width="350" height="350"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_9.png" alt="photoshop" width="350" height="350"/> </a> 
+ <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_1.png" alt="photoshop" width="150" height="150"/> </a> 
+ <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_2.png" alt="photoshop" width="150" height="150"/> </a>
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_10.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_11.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_12.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_13.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_14.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_15.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_16.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_17.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_18.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_19.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_20.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_21.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_22.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_23.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_24.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_3.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_4.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_5.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_6.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_7.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_8.png" alt="photoshop" width="150" height="150"/> </a> 
+<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_9.png" alt="photoshop" width="150" height="150"/> </a> 
 
 
 ###
