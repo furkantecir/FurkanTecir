@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Hello</h3>
 
-<img align="right" alt="coding" width="400"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkantecir&label=Profile%20views&color=0e75b6&style=flat" alt="furkantecir" /> </p>
 
