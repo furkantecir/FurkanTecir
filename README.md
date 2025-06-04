@@ -23,9 +23,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkantecir&" alt="furkantecir" /></p>
   
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-   
-  </a>
 </div>
 
  <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_1.png" alt="photoshop" width="350" height="350"/> </a> 
