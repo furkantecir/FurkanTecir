@@ -1,54 +1,70 @@
+<!-- 🎨 Banner -->
 ![logo](https://github.com/furkantecir/FurkanTecir/blob/main/Yellow%20Modern%20Style%20Game%20Twitch%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">Hello</h3>
+<h3 align="center">Computer Programming Student | Cybersecurity & Software Enthusiast</h3>
 
+---
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=furkantecir&label=Profile%20views&color=0e75b6&style=flat" alt="furkantecir" /> </p>
-
-- 📫 How to reach me **tecirfurkanbaki@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/furkan-tecir-57a824233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkan-tecir-57a824233/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/furkan_tecir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/furkan_tecir/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucraj4aih8jgf3n_dxbgeuoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucraj4aih8jgf3n_dxbgeuoa" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=furkantecir&label=Profile%20views&color=0e75b6&style=flat" alt="furkantecir" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 📫 **Reach me at:** tecirfurkanbaki@gmail.com  
 
+---
 
+### 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/furkan-tecir-57a824233/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/furkan_tecir/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCRaj4AIH8jGf3N_dXbgeUOA" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkantecir&" alt="furkantecir" /></p>
-  
+---
+
+### 🧰 Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 🏅 Certificates
+<div align="center">
+
+|  |  |  |
+|--|--|--|
+| <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_1.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_2.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_3.png" width="150"/> |
+| <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_4.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_5.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_6.png" width="150"/> |
+| <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_7.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_8.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_9.png" width="150"/> |
+| <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_10.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_11.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_12.png" width="150"/> |
+| <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_13.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_14.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_15.png" width="150"/> |
+| <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_16.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_17.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_18.png" width="150"/> |
+
 </div>
 
- <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_1.png" alt="photoshop" width="150" height="150"/> </a> 
- <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_2.png" alt="photoshop" width="150" height="150"/> </a>
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_10.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_11.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_12.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_13.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_14.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_15.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_16.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_17.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_18.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_19.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_20.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_21.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_22.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_23.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_24.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_3.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_4.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_5.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_6.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_7.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_8.png" alt="photoshop" width="150" height="150"/> </a> 
-<img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_9.png" alt="photoshop" width="150" height="150"/> </a> 
+> 💡 **İpucu:** Çok fazla sertifika varsa, geri kalanlarını ayrı bir sayfaya koyabilirsin (örnek: [Tüm Sertifikalarım](#)).
 
+---
 
-###
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furkantecir&theme=tokyonight" alt="furkantecir" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=furkantecir&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### ⚡ Fun fact
+> “Kod yazarken hata yapmak, kod yazmamaktan iyidir.”
+
+---
