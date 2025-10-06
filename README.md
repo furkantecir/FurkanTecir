@@ -2,13 +2,11 @@
 ![logo](https://github.com/furkantecir/FurkanTecir/blob/main/Yellow%20Modern%20Style%20Game%20Twitch%20Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">Computer Programming Student | Cybersecurity & Software Enthusiast</h3>
+
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=furkantecir&label=Profile%20views&color=0e75b6&style=flat" alt="furkantecir" />
-</p>
+
 
 - 📫 **Reach me at:** tecirfurkanbaki@gmail.com  
 
@@ -62,9 +60,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=furkantecir&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
----
 
-### ⚡ Fun fact
-> “Kod yazarken hata yapmak, kod yazmamaktan iyidir.”
-
----
