@@ -48,7 +48,9 @@
 
 </div>
 
->([Tüm Sertifikalarım](#)).
+<p align="center">
+  🔗 <a href="https://github.com/furkantecir/FurkanTecir/tree/main/certificates" target="_blank"><b>Tüm Sertifikalarımı Görmek İçin Tıklayın</b></a>
+</p>
 
 ---
 
