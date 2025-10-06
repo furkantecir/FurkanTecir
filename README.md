@@ -48,7 +48,7 @@
 
 </div>
 
-> 💡 **İpucu:** Çok fazla sertifika varsa, geri kalanlarını ayrı bir sayfaya koyabilirsin (örnek: [Tüm Sertifikalarım](#)).
+>([Tüm Sertifikalarım](#)).
 
 ---
 
