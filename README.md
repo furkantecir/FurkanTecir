@@ -3,10 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 
-
 ---
-
-
 
 - 📫 **Reach me at:** tecirfurkanbaki@gmail.com  
 
@@ -40,11 +37,7 @@
 |  |  |  |
 |--|--|--|
 | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_1.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_2.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_3.png" width="150"/> |
-| <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_4.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_5.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_6.png" width="150"/> |
-| <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_7.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_8.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_9.png" width="150"/> |
-| <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_10.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_11.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_12.png" width="150"/> |
-| <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_13.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_14.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_15.png" width="150"/> |
-| <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_16.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_17.png" width="150"/> | <img src="https://github.com/furkantecir/FurkanTecir/blob/main/Screenshot_18.png" width="150"/> |
+
 
 </div>
 
@@ -61,5 +54,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furkantecir&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
-
