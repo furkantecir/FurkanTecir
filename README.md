@@ -66,14 +66,4 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkantecir&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true" alt="Furkan's GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=furkantecir&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkantecir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
