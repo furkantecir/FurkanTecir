@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Tecir</h1>
 
 <p align="center">
-  🚀 <b>Full-Stack Developer & Mobile Application Engineer</b> <br/>
+
   📫 <b>Reach me at:</b> <a href="mailto:tecirfurkanbaki@gmail.com">tecirfurkanbaki@gmail.com</a>
 </p>
 
@@ -18,10 +18,8 @@
   <a href="https://instagram.com/furkan_tecir/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;
-  <a href="https://www.youtube.com/channel/UCRaj4AIH8jGf3N_dXbgeUOA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
+
+  
 </p>
 
 ---
@@ -47,9 +45,7 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" title="Linux" />
   &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="42" height="42" title="Figma" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="42" height="42" title="Photoshop" />
+ 
 </p>
 
 ---
