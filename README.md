@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/furkantecir/FurkanTecir/main/Yellow%20Modern%20Style%20Game%20Twitch%20Banner.gif" alt="Furkan Tecir Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Furkan Tecir</h1>
+
 
 <p align="center">
 
