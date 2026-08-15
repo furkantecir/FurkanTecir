@@ -29,23 +29,18 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" title="C#" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" title="Flutter" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" title="Dart" />
-  &nbsp;&nbsp;
+
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="42" height="42" title="NestJS" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-line.svg" width="42" height="42" title="Next.js" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" title="Python" />
-  &nbsp;&nbsp;
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" title="HTML5" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" title="CSS3" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" title="Linux" />
-  &nbsp;&nbsp;
- 
+
 </p>
 
 ---
