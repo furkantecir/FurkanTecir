@@ -58,16 +58,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" title="CSS3" />
 </p>
 
----
-
-### Languages
-
-| Language | Level        |
-| :------- | :----------- |
-| Turkish  | Native       |
-| English  | Intermediate |
-
----
 
 ### GitHub Stats
 
