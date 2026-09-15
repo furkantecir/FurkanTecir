@@ -1,4 +1,4 @@
-<!-- 🎨 Banner -->
+<!-- Banner -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/furkantecir/FurkanTecir/main/Yellow%20Modern%20Style%20Game%20Twitch%20Banner.gif" alt="Furkan Tecir Banner" width="100%" />
@@ -59,12 +59,3 @@
 </p>
 
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FurkanTecir&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FurkanTecir&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
