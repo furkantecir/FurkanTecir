@@ -33,22 +33,22 @@
 </p>
 
 <p align="center">
-  📫 <b>Reach me at:</b>
+  <b>Contact:</b>
   <a href="mailto:tecirfurkanbaki@gmail.com">tecirfurkanbaki@gmail.com</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-* 🎓 Software Development student
-* 💻 Interested in desktop and web application development
-* 🚀 Currently building and improving my own projects
-* 📚 Continuously learning and experimenting with new technologies
+* Software Development student
+* Interested in desktop and web application development
+* Currently working on personal projects and improving my development skills
+* Interested in learning and working with modern development technologies
 
 ---
 
-### 🧰 Technologies
+### Technologies
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" title="C#" />
@@ -56,18 +56,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" title="HTML5" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" title="CSS3" />
-  &nbsp;&nbsp;
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### Languages
 
-<!-- Buraya daha sonra en iyi 2-4 projeni ekleyebiliriz. -->
+| Language | Level        |
+| :------- | :----------- |
+| Turkish  | Native       |
+| English  | Intermediate |
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FurkanTecir&show_icons=true&hide_border=true" alt="GitHub Stats" />
