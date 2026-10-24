@@ -3,7 +3,7 @@
 <a href="https://furkantecir.com.tr"><img src="./assets/hero.svg" alt="Furkan Tecir / FuTe — retro pixel cyber profile" width="100%" /></a>
 
 <!-- Direct avatar image provides a GitHub-compatible fallback even if embedded SVG raster is filtered. -->
-<a href="https://github.com/furkantecir"><img src="https://github.com/furkantecir.png?size=256" alt="Furkan Tecir GitHub profile photo" width="90" /></a>
+
 
 **`> Building software. Learning security. Shipping experiments._`**
 
