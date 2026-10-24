@@ -1,19 +1,42 @@
-<p align="center">
-<img src="https://www.gitskins.com/api/section/hero?username=furkantecir&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83100083%3Fu%3Db98951d71bc90a951f5b3a720be4db5f8f177e4e%26v%3D4&v=showcase-hero-1" alt="Furkan Tecir hero visual" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://www.gitskins.com/api/section/projects?username=furkantecir&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83100083%3Fu%3Db98951d71bc90a951f5b3a720be4db5f8f177e4e%26v%3D4&v=showcase-projects-2" alt="Furkan Tecir projects visual" />
-</p>
+<a href="https://furkantecir.com.tr"><img src="./assets/hero.svg" alt="Furkan Tecir / FuTe — retro pixel cyber security developer profile" width="100%" /></a>
 
-<p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=furkantecir&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Furkan Tecir contribution Space Shooter" />
-</p>
+**`> Building software. Learning security. Shipping experiments._`**
 
-<p align="center">
-<img src="https://www.gitskins.com/api/section/stats?username=furkantecir&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83100083%3Fu%3Db98951d71bc90a951f5b3a720be4db5f8f177e4e%26v%3D4&v=showcase-stats-4" alt="Furkan Tecir stats visual" />
-</p>
+[**WEBSITE**](https://furkantecir.com.tr) &nbsp; `//` &nbsp; [**REPOSITORIES**](https://github.com/furkantecir?tab=repositories) &nbsp; `//` &nbsp; [**FOLLOW**](https://github.com/furkantecir)
 
-<p align="center">
-<img src="https://www.gitskins.com/api/section/social?username=furkantecir&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83100083%3Fu%3Db98951d71bc90a951f5b3a720be4db5f8f177e4e%26v%3D4&v=showcase-social-5" alt="Furkan Tecir social visual" />
-</p>
+</div>
+
+### `01 // PROJECT DATABASE`
+
+<div align="center"><img src="./assets/projects.svg" alt="Featured projects — AION 2 TR, Media Converter, Tab Saver V2, Kasa" width="100%" /></div>
+
+| `ACCESS` | `PROJECT` | `STACK` |
+|:--|:--|:--|
+| `01` | [**AION 2 / TR**](https://github.com/furkantecir/AION2_TURKCE_YAMA) | `C#` |
+| `02` | [**MEDIA CONVERTER**](https://github.com/furkantecir/browser-audio-video-converter) | `TypeScript` |
+| `03` | [**TAB SAVER V2**](https://github.com/furkantecir/Tab-Saver-v2) | `JavaScript` |
+| `04` | [**KASA**](https://github.com/furkantecir/kasa) | `C#` |
+
+### `02 // GITHUB TELEMETRY`
+
+<div align="center"><img src="./assets/stats.svg" alt="GitHub public repository, star and follower statistics" width="100%" /></div>
+
+### `03 // DEFENSE MATRIX — ROBOTS VS. VIRUS`
+
+<div align="center">
+
+<img src="./assets/activity.gif" alt="Animated retro pixel robots patrolling the GitHub contribution graph and fighting viruses" width="100%" />
+
+<sub>`DEFENDER BOTS // THREAT SIMULATION // DAILY GITHUB SYNC`</sub>
+
+</div>
+
+### `04 // TOOLKIT`
+
+`C#` • `C++` • `Python` • `HTML/CSS` • `JavaScript` • `Java` • `Cybersecurity (learning)`
+
+---
+
+<div align="center"><sub>FuTe Cyber Arcade — visuals are owned and generated locally. No GitSkins dependency.<br/>Pixel bots and viruses are decorative; the contribution data is not altered.</sub></div>
