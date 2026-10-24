@@ -7,6 +7,8 @@ Requires Pillow. SVGs are generated using only stdlib. No GitSkins, JS, fonts or
 """
 from __future__ import annotations
 import argparse
+import base64
+import io
 import datetime as dt
 import html
 import json
@@ -58,7 +60,7 @@ def base(w,height,window,section):
 {rect(13,13,w-26,34,'panel')}
 {dots(28,26,'green')}
 {txt(95,35,window,13,'dim',700,spacing=1.5)}
-{txt(w-31,35,'FUTE_OS / v2.0',12,'mint',700,anchor='end')}
+{txt(w-31,35,'FUTE_OS / v3.0',12,'mint',700,anchor='end')}
 {ln(13,47,w-13,47,'line',2)}'''
     for x,y,dx,dy in [(14,49,1,1),(w-14,49,-1,1),(14,height-14,1,-1),(w-14,height-14,-1,-1)]:
         s+=ln(x,y,x+dx*15,y,'green',2)+ln(x,y,x,y+dy*15,'green',2)
@@ -148,7 +150,19 @@ def owl_art(x,y,scale=11):
     return s
 
 
-def hero():
+def avatar_asset():
+    """Fetch the public profile picture for embedding; fail visibly, never fake it."""
+    url = f'https://github.com/{USER}.png?size=256'
+    req=urllib.request.Request(url, headers={'User-Agent':'FuTeCyberArcade/3.0'})
+    with urllib.request.urlopen(req,timeout=20) as r:
+        raw=r.read(2_000_000)
+    with Image.open(io.BytesIO(raw)) as photo:
+        photo=photo.convert('RGB').resize((256,256), Image.Resampling.LANCZOS)
+        photo.save(ASSET/'avatar.png',format='PNG',optimize=True)
+    return base64.b64encode((ASSET/'avatar.png').read_bytes()).decode('ascii')
+
+
+def hero(avatar_b64=None):
     w,height=1100,420
     s=base(w,height,'/home/fute/init.sh','hero')
     s+=txt(50,85,'> IDENTITY VERIFIED',15,'green',700,spacing=1)
@@ -165,7 +179,13 @@ def hero():
     s+=rect(719,66,338,319,'panel2','mint',2)
     s+=rect(720,67,336,35,'panel')+txt(735,90,'[ OWL_SEC // MONITOR ]',15,'mint',700)
     s+=ln(734,105,1041,105,'line')
-    s+=owl_art(805,120,10.5)
+    if avatar_b64:
+        s+=rect(787,119,203,171,'bg','green',2)
+        s+=f'<image x="790" y="123" width="197" height="163" preserveAspectRatio="xMidYMid slice" href="data:image/png;base64,{avatar_b64}"/>'
+        s+=txt(897,285,'GITHUB AVATAR // SYNCED',11,'green',700,anchor='middle')
+    else:
+        s+=owl_art(805,120,10.5)
+        s+=txt(895,284,'AVATAR: SYNC PENDING',11,'amber',700,anchor='middle')
     s+=ln(737,295,1041,295,'line')
     s+=txt(737,320,'> FIREWALL:',15,'dim')+txt(905,320,'ACTIVE',15,'green',700)
     s+=txt(737,348,'> THREAT LVL:',15,'dim')+txt(905,348,'LOW',15,'mint',700)
@@ -198,6 +218,31 @@ def projects():
     return s
 
 
+def project_cards():
+    """Each SVG is a standalone clickable README asset; no inert hotspot on one image."""
+    names=[]
+    for i,proj in enumerate(CFG['projects'],1):
+        w,height=535,237
+        s=base(w,height,f'/repo/{proj["repo"]}','project card')
+        accent=proj['accent']
+        s+=rect(20,60,495,158,'panel2','line',2)
+        s+=rect(20,60,495,5,accent)
+        s+=txt(38,93,f'[{proj["type"]}]',14,accent,700)
+        s+=txt(498,94,f'{i:02}',14,'dim',700,anchor='end')
+        s+=txt(38,140,proj['title'],26,'white',700)
+        s+=txt(38,169,proj['subtitle'],15,'dim')
+        s+=ln(38,182,498,182,'line')
+        s+=txt(38,204,proj['stack'],13,accent,700)
+        s+=txt(498,204,'OPEN REPOSITORY >>',13,'mint',700,anchor='end')
+        s+='</svg>'
+        name=f'project-{i:02}.svg'
+        import xml.etree.ElementTree as ET
+        ET.fromstring(s)
+        (ASSET/name).write_text(s,encoding='utf-8')
+        names.append(name)
+    return names
+
+
 def stats(data,valid):
     w,height=1100,252
     s=base(w,height,'/usr/bin/gh-status','stats')
@@ -216,7 +261,7 @@ def stats(data,valid):
 
 
 def fetch(url,token=None,body=None):
-    hdr={'User-Agent':'FuTeCyberArcade/2.0 (+GitHub profile generator)','Accept':'application/vnd.github+json'}
+    hdr={'User-Agent':'FuTeCyberArcade/3.0 (+GitHub profile generator)','Accept':'application/vnd.github+json'}
     if token: hdr['Authorization']='Bearer '+token
     if body is not None: hdr['Content-Type']='application/json'
     data=json.dumps(body).encode() if body is not None else None
@@ -392,11 +437,17 @@ def main():
         days=fetch_graph(token)
         data=fetch_stats(token)
         valid=True
-    for name,content in [('hero.svg',hero()),('projects.svg',projects()),('stats.svg',stats(data,valid))]:
+    try:
+        avatar_b64=avatar_asset()
+    except Exception as ex:
+        print(f'WARNING: avatar could not be downloaded: {ex}')
+        avatar_b64=None
+    project_cards()
+    for name,content in [('hero.svg',hero(avatar_b64)),('stats.svg',stats(data,valid))]:
         import xml.etree.ElementTree as ET
         ET.fromstring(content)
         (ASSET/name).write_text(content,encoding='utf-8')
     n=build_activity(days,args.demo)
-    print(f'Generated three SVGs and {n}-frame animated GIF. GitHub data: {"LIVE" if valid else "DEMO"}')
+    print(f'Generated hero, four project cards, stats and {n}-frame animated GIF. GitHub data: {"LIVE" if valid else "DEMO"}')
 
 if __name__=='__main__':main()
