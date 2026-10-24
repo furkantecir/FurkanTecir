@@ -1,0 +1,44 @@
+name: Refresh FuTe Cyber Arcade
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '27 4 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fute-cyber-arcade
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout profile repo
+        uses: actions/checkout@v4
+
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install image generator
+        run: python -m pip install -r requirements.txt
+
+      - name: Generate from live GitHub data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate.py --live
+
+      - name: Commit refreshed assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/hero.svg assets/projects.svg assets/stats.svg assets/activity.gif assets/activity-poster.png
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh FuTe Cyber Arcade"
+            git push
+          fi

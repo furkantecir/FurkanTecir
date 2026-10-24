@@ -1,0 +1,23 @@
+{
+  "username": "furkantecir",
+  "display_name": "Furkan Tecir",
+  "website": "https://furkantecir.com.tr",
+  "palette": {
+    "bg": "#080D12",
+    "panel": "#101920",
+    "panel2": "#0D151B",
+    "line": "#254449",
+    "dim": "#6F9A93",
+    "white": "#E8F6E9",
+    "green": "#BBFF6C",
+    "mint": "#49D9B1",
+    "amber": "#EEC36A",
+    "red": "#FF6786"
+  },
+  "projects": [
+    {"repo": "AION2_TURKCE_YAMA", "title": "AION 2 / TR", "subtitle": "Turkish localization tools", "stack": "C# / .NET", "type": "PATCH_01", "accent": "green"},
+    {"repo": "browser-audio-video-converter", "title": "MEDIA CONVERTER", "subtitle": "Browser-based media processing", "stack": "TYPESCRIPT", "type": "WEB_02", "accent": "mint"},
+    {"repo": "Tab-Saver-v2", "title": "TAB SAVER V2", "subtitle": "Browser session recovery", "stack": "JAVASCRIPT", "type": "EXT_03", "accent": "amber"},
+    {"repo": "kasa", "title": "KASA", "subtitle": "Desktop development project", "stack": "C#", "type": "APP_04", "accent": "red"}
+  ]
+}
