@@ -1,58 +1,37 @@
-<!-- Banner -->
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/furkantecir/FurkanTecir/main/Yellow%20Modern%20Style%20Game%20Twitch%20Banner.gif" alt="Furkan Tecir Banner" width="100%" />
+<img src="https://www.gitskins.com/api/section/hero?username=furkantecir&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83100083%3Fu%3Db98951d71bc90a951f5b3a720be4db5f8f177e4e%26v%3D4&v=showcase-hero-1" alt="Furkan Tecir hero visual" />
 </p>
 
 <p align="center">
-  <b>Software Development Student | Developer</b>
+<img src="https://www.gitskins.com/api/section/projects?username=furkantecir&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83100083%3Fu%3Db98951d71bc90a951f5b3a720be4db5f8f177e4e%26v%3D4&v=showcase-projects-2" alt="Furkan Tecir projects visual" />
 </p>
 
 <p align="center">
-  Building projects, learning new technologies and improving my development skills.
-</p>
-
----
-
-<p align="center">
-  <a href="https://furkantecir.com.tr" target="_blank">
-    <img src="https://img.shields.io/badge/Website-furkantecir.com.tr-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/furkan-tecir-57a824233/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
- 
-  <a href="https://instagram.com/furkan_tecir/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<img src="https://www.gitskins.com/api/section/heatmap?username=furkantecir&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Furkan Tecir contribution Space Shooter" />
 </p>
 
 <p align="center">
-  <b>Contact:</b>
-  <a href="mailto:tecirfurkanbaki@gmail.com">tecirfurkanbaki@gmail.com</a>
+<img src="https://www.gitskins.com/api/section/stats?username=furkantecir&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83100083%3Fu%3Db98951d71bc90a951f5b3a720be4db5f8f177e4e%26v%3D4&v=showcase-stats-4" alt="Furkan Tecir stats visual" />
 </p>
-
----
-
-### About Me
-
-* Software Development student
-* Interested in desktop and web application development
-* Currently working on personal projects and improving my development skills
-* Interested in learning and working with modern development technologies
-
----
-
-### Technologies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" title="C#" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" title="HTML5" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" title="CSS3" />
+<img src="https://www.gitskins.com/api/section/social?username=furkantecir&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83100083%3Fu%3Db98951d71bc90a951f5b3a720be4db5f8f177e4e%26v%3D4&v=showcase-social-5" alt="Furkan Tecir social visual" />
+</p><p align="center">
+<img src="https://www.gitskins.com/api/section/hero?username=furkantecir&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83100083%3Fu%3Db98951d71bc90a951f5b3a720be4db5f8f177e4e%26v%3D4&v=showcase-hero-1" alt="Furkan Tecir hero visual" />
 </p>
 
+<p align="center">
+<img src="https://www.gitskins.com/api/section/projects?username=furkantecir&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83100083%3Fu%3Db98951d71bc90a951f5b3a720be4db5f8f177e4e%26v%3D4&v=showcase-projects-2" alt="Furkan Tecir projects visual" />
+</p>
 
+<p align="center">
+<img src="https://www.gitskins.com/api/section/heatmap?username=furkantecir&theme=github-dark&variant=space-shooter&v=showcase-space-shooter-3" alt="Furkan Tecir contribution Space Shooter" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stats?username=furkantecir&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83100083%3Fu%3Db98951d71bc90a951f5b3a720be4db5f8f177e4e%26v%3D4&v=showcase-stats-4" alt="Furkan Tecir stats visual" />
+</p>
+
+<p align="center">
+<img src="https://www.gitskins.com/api/section/social?username=furkantecir&theme=github-dark&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F83100083%3Fu%3Db98951d71bc90a951f5b3a720be4db5f8f177e4e%26v%3D4&v=showcase-social-5" alt="Furkan Tecir social visual" />
+</p>
